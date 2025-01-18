@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.ragu;
 
 public class Encapsi {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package SnakeGame;
+package com.ragu.SnakeGame;
 
 import java.util.Scanner;
 

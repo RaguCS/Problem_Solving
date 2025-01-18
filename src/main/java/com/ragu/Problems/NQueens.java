@@ -1,4 +1,4 @@
-package Problems;
+package com.ragu.Problems;
 import java.util.*;
 public class NQueens {
     public static List<List<String>> solveNQueens(int n) {
